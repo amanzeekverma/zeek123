@@ -1,4 +1,4 @@
-package com.example.zeek123
+package com.zeek.zeek123
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

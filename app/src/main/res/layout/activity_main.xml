@@ -145,19 +145,5 @@
         app:layout_constraintWidth_percent="0.1"
         app:srcCompat="@drawable/quit" />
 
-    <TextView
-        android:id="@+id/signature"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Aman ZeeK Verma"
-        android:textSize="30dp"
-        android:textColor="#008F11"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintTop_toBottomOf="@id/quit"
-        app:layout_constraintStart_toStartOf="@id/img5"
-        android:layout_marginBottom="16dp"
-
-         />
-
 
 </androidx.constraintlayout.widget.ConstraintLayout>
